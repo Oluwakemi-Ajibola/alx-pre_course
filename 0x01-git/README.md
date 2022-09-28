@@ -1,2 +1,2 @@
 Another read me
-Updaing my Readme
+Updating my Readme
